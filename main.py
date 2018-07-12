@@ -52,21 +52,19 @@ def generate(generations, population, nn_param_choices, dataset):
     """
     optimizer = Optimizer(nn_param_choices)
     networks = optimizer.create_population(population)
-
+	# network object = {paramters}
     # Evolve the generation.
     for i in range(generations):
-        logging.info("***Doing generation %d of %d***" %
+        print("***Doing generation %d of %d***" %
                      (i + 1, generations))
 
         # Train and get accuracy for networks.
         train_networks(networks, dataset)
-
         # Get the average accuracy for this generation.
         average_accuracy = get_average_accuracy(networks)
-
         # Print out the average accuracy each generation.
-        logging.info("Generation average: %.2f%%" % (average_accuracy * 100))
-        logging.info('-'*80)
+        print("Generation average: %.2f%%" % (average_accuracy * 100))
+        print('-'*80)
 
         # Evolve, except on the last iteration.
         if i != generations - 1:
@@ -92,19 +90,17 @@ def print_networks(networks):
 
 def main():
     """Evolve a network."""
-    generations = 10  # Number of times to evole the population.
-    population = 20  # Number of networks in each generation.
-    dataset = 'cifar10'
+    generations = 3  # Number of times to evole the population.
+    population = 6 # Number of networks in each generation.
+    dataset = 'mnist'
 
     nn_param_choices = {
-        'nb_neurons': [64, 128, 256, 512, 768, 1024],
-        'nb_layers': [1, 2, 3, 4],
-        'activation': ['relu', 'elu', 'tanh', 'sigmoid'],
-        'optimizer': ['rmsprop', 'adam', 'sgd', 'adagrad',
-                      'adadelta', 'adamax', 'nadam'],
+        'features': [2, 4, 6],
+        'nb_layers': [2, 3],
+        'learning_rate': [0.001, 0.0015, 0.002, 0.003]
     }
 
-    logging.info("***Evolving %d generations with population %d***" %
+    print("***Evolving %d generations with population %d***" %
                  (generations, population))
 
     generate(generations, population, nn_param_choices, dataset)

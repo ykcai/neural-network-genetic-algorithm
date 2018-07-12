@@ -1,0 +1,218 @@
+07/12/2018 12:52:13 PM - INFO - ***Evolving 10 generations with population 20***
+07/12/2018 12:52:13 PM - INFO - ***Doing generation 1 of 10***
+07/12/2018 12:53:04 PM - INFO - ***Evolving 10 generations with population 20***
+07/12/2018 12:53:04 PM - INFO - ***Doing generation 1 of 10***
+07/12/2018 12:54:55 PM - INFO - ***Evolving 10 generations with population 20***
+07/12/2018 12:54:55 PM - INFO - ***Doing generation 1 of 10***
+07/12/2018 01:05:07 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 01:05:07 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:44:21 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:44:21 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:45:07 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:45:07 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:47:14 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:47:14 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:47:16 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:47:16 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:47:35 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:47:35 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:56:51 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:56:51 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:56:57 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:56:57 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:56:57 PM - INFO - Generation average: 95.10%
+07/12/2018 06:56:57 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 06:57:16 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:57:16 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:57:16 PM - INFO - Generation average: 86.59%
+07/12/2018 06:57:16 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 06:59:26 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:59:26 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:59:26 PM - INFO - Generation average: 96.98%
+07/12/2018 06:59:26 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 06:59:32 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 06:59:32 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 06:59:32 PM - INFO - Generation average: 86.62%
+07/12/2018 06:59:32 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:00:49 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 07:00:49 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 07:00:49 PM - INFO - Generation average: 96.41%
+07/12/2018 07:00:49 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:00:49 PM - INFO - ***Doing generation 2 of 2***
+07/12/2018 07:00:49 PM - INFO - Generation average: 97.04%
+07/12/2018 07:00:49 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:00:49 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:00:49 PM - INFO - {'nb_layers': 3, 'features': 6, 'learning_rate': 0.0015}
+07/12/2018 07:00:49 PM - INFO - Network accuracy: 97.30%
+07/12/2018 07:00:49 PM - INFO - {'nb_layers': 3, 'features': 6, 'learning_rate': 0.0015}
+07/12/2018 07:00:49 PM - INFO - Network accuracy: 97.30%
+07/12/2018 07:00:49 PM - INFO - {'nb_layers': 2, 'features': 6, 'learning_rate': 0.003}
+07/12/2018 07:00:49 PM - INFO - Network accuracy: 96.51%
+07/12/2018 07:00:58 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 07:00:58 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 07:00:58 PM - INFO - Generation average: 95.50%
+07/12/2018 07:00:58 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:01 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 07:01:01 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 07:01:01 PM - INFO - Generation average: 89.77%
+07/12/2018 07:01:01 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:11 PM - INFO - ***Evolving 2 generations with population 3***
+07/12/2018 07:01:11 PM - INFO - ***Doing generation 1 of 2***
+07/12/2018 07:01:11 PM - INFO - Generation average: 81.36%
+07/12/2018 07:01:11 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:25 PM - INFO - ***Evolving 5 generations with population 3***
+07/12/2018 07:01:25 PM - INFO - ***Doing generation 1 of 5***
+07/12/2018 07:01:25 PM - INFO - Generation average: 0.00%
+07/12/2018 07:01:25 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:27 PM - INFO - ***Evolving 5 generations with population 3***
+07/12/2018 07:01:27 PM - INFO - ***Doing generation 1 of 5***
+07/12/2018 07:01:27 PM - INFO - Generation average: 0.00%
+07/12/2018 07:01:27 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:32 PM - INFO - ***Evolving 3 generations with population 3***
+07/12/2018 07:01:32 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:01:32 PM - INFO - Generation average: 0.00%
+07/12/2018 07:01:32 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:37 PM - INFO - ***Evolving 3 generations with population 6***
+07/12/2018 07:01:37 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:01:37 PM - INFO - Generation average: 0.00%
+07/12/2018 07:01:37 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:37 PM - INFO - ***Doing generation 2 of 3***
+07/12/2018 07:01:37 PM - INFO - Generation average: 0.00%
+07/12/2018 07:01:37 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:37 PM - INFO - ***Doing generation 3 of 3***
+07/12/2018 07:01:37 PM - INFO - Generation average: 0.00%
+07/12/2018 07:01:37 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:37 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:01:37 PM - INFO - {'nb_layers': 2, 'features': 2, 'learning_rate': 0.003}
+07/12/2018 07:01:37 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:01:37 PM - INFO - {'nb_layers': 2, 'features': 4, 'learning_rate': 0.002}
+07/12/2018 07:01:37 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:01:37 PM - INFO - {'nb_layers': 2, 'features': 2, 'learning_rate': 0.002}
+07/12/2018 07:01:37 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:01:37 PM - INFO - {'nb_layers': 2, 'features': 2, 'learning_rate': 0.002}
+07/12/2018 07:01:37 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:01:37 PM - INFO - {'nb_layers': 2, 'features': 2, 'learning_rate': 0.002}
+07/12/2018 07:01:37 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:01:42 PM - INFO - ***Evolving 3 generations with population 4***
+07/12/2018 07:01:42 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:01:42 PM - INFO - Generation average: 0.00%
+07/12/2018 07:01:42 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:02:25 PM - INFO - ***Evolving 3 generations with population 4***
+07/12/2018 07:02:25 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:02:25 PM - INFO - Generation average: 0.00%
+07/12/2018 07:02:25 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:02:36 PM - INFO - ***Evolving 3 generations with population 4***
+07/12/2018 07:02:36 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:02:36 PM - INFO - Generation average: 0.00%
+07/12/2018 07:02:36 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:02:36 PM - INFO - ***Doing generation 2 of 3***
+07/12/2018 07:02:36 PM - INFO - Generation average: 0.00%
+07/12/2018 07:02:36 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:03:00 PM - INFO - ***Evolving 3 generations with population 4***
+07/12/2018 07:03:00 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:03:00 PM - INFO - Generation average: 0.00%
+07/12/2018 07:03:00 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:03:17 PM - INFO - ***Evolving 3 generations with population 4***
+07/12/2018 07:03:17 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:03:17 PM - INFO - Generation average: 0.00%
+07/12/2018 07:03:17 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:03:45 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:03:45 PM - INFO - Generation average: 0.00%
+07/12/2018 07:03:45 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:03:45 PM - INFO - ***Doing generation 2 of 3***
+07/12/2018 07:03:45 PM - INFO - Generation average: 0.00%
+07/12/2018 07:03:45 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:04:38 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:04:38 PM - INFO - Generation average: 0.00%
+07/12/2018 07:04:38 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:04:50 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:04:50 PM - INFO - Generation average: 0.00%
+07/12/2018 07:04:50 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:04:53 PM - INFO - ***Doing generation 1 of 3***
+07/12/2018 07:04:53 PM - INFO - Generation average: 0.00%
+07/12/2018 07:04:53 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:04:53 PM - INFO - ***Doing generation 2 of 3***
+07/12/2018 07:04:53 PM - INFO - Generation average: 0.00%
+07/12/2018 07:04:53 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:04:53 PM - INFO - ***Doing generation 3 of 3***
+07/12/2018 07:04:53 PM - INFO - Generation average: 0.00%
+07/12/2018 07:04:53 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:04:53 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:04:53 PM - INFO - {'nb_layers': 3, 'features': 6, 'learning_rate': 0.001}
+07/12/2018 07:04:53 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:04:53 PM - INFO - {'nb_layers': 2, 'features': 2, 'learning_rate': 0.0015}
+07/12/2018 07:04:53 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:04:53 PM - INFO - {'nb_layers': 3, 'features': 6, 'learning_rate': 0.001}
+07/12/2018 07:04:53 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:04:53 PM - INFO - {'nb_layers': 3, 'features': 4, 'learning_rate': 0.001}
+07/12/2018 07:04:53 PM - INFO - Network accuracy: 0.00%
+07/12/2018 07:05:09 PM - INFO - Generation average: 0.00%
+07/12/2018 07:05:09 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:05:31 PM - INFO - Generation average: 0.00%
+07/12/2018 07:05:31 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:06:23 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:06:23 PM - INFO - {'features': 6, 'learning_rate': 0.003, 'nb_layers': 3}
+07/12/2018 07:06:23 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:06:23 PM - INFO - {'features': 6, 'learning_rate': 0.003, 'nb_layers': 3}
+07/12/2018 07:06:23 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:06:23 PM - INFO - {'features': 6, 'learning_rate': 0.003, 'nb_layers': 3}
+07/12/2018 07:06:23 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:06:23 PM - INFO - {'features': 2, 'learning_rate': 0.003, 'nb_layers': 3}
+07/12/2018 07:06:23 PM - INFO - Network accuracy: 95.67%
+07/12/2018 07:08:22 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:08:22 PM - INFO - {'learning_rate': 0.003, 'features': 6, 'nb_layers': 3}
+07/12/2018 07:08:22 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:08:22 PM - INFO - {'learning_rate': 0.0015, 'features': 6, 'nb_layers': 3}
+07/12/2018 07:08:22 PM - INFO - Network accuracy: 97.30%
+07/12/2018 07:08:22 PM - INFO - {'learning_rate': 0.0015, 'features': 6, 'nb_layers': 2}
+07/12/2018 07:08:22 PM - INFO - Network accuracy: 97.16%
+07/12/2018 07:08:22 PM - INFO - {'learning_rate': 0.003, 'features': 6, 'nb_layers': 2}
+07/12/2018 07:08:22 PM - INFO - Network accuracy: 96.51%
+07/12/2018 07:08:22 PM - INFO - {'learning_rate': 0.001, 'features': 2, 'nb_layers': 2}
+07/12/2018 07:08:22 PM - INFO - Network accuracy: 70.33%
+07/12/2018 07:08:24 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:08:24 PM - INFO - {'features': 4, 'learning_rate': 0.0015, 'nb_layers': 3}
+07/12/2018 07:08:24 PM - INFO - Network accuracy: 95.42%
+07/12/2018 07:08:24 PM - INFO - {'features': 4, 'learning_rate': 0.0015, 'nb_layers': 2}
+07/12/2018 07:08:24 PM - INFO - Network accuracy: 94.57%
+07/12/2018 07:08:24 PM - INFO - {'features': 4, 'learning_rate': 0.0015, 'nb_layers': 2}
+07/12/2018 07:08:24 PM - INFO - Network accuracy: 94.57%
+07/12/2018 07:08:24 PM - INFO - {'features': 4, 'learning_rate': 0.0015, 'nb_layers': 2}
+07/12/2018 07:08:24 PM - INFO - Network accuracy: 94.57%
+07/12/2018 07:08:24 PM - INFO - {'features': 4, 'learning_rate': 0.0015, 'nb_layers': 2}
+07/12/2018 07:08:24 PM - INFO - Network accuracy: 94.57%
+07/12/2018 07:08:52 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:08:52 PM - INFO - {'learning_rate': 0.0015, 'features': 4, 'nb_layers': 3}
+07/12/2018 07:08:52 PM - INFO - Network accuracy: 95.42%
+07/12/2018 07:08:52 PM - INFO - {'learning_rate': 0.0015, 'features': 4, 'nb_layers': 2}
+07/12/2018 07:08:52 PM - INFO - Network accuracy: 94.57%
+07/12/2018 07:08:52 PM - INFO - {'learning_rate': 0.0015, 'features': 4, 'nb_layers': 2}
+07/12/2018 07:08:52 PM - INFO - Network accuracy: 94.57%
+07/12/2018 07:08:52 PM - INFO - {'learning_rate': 0.001, 'features': 4, 'nb_layers': 3}
+07/12/2018 07:08:52 PM - INFO - Network accuracy: 93.86%
+07/12/2018 07:08:52 PM - INFO - {'learning_rate': 0.001, 'features': 4, 'nb_layers': 3}
+07/12/2018 07:08:52 PM - INFO - Network accuracy: 93.86%
+07/12/2018 07:08:57 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:08:57 PM - INFO - {'nb_layers': 3, 'learning_rate': 0.003, 'features': 6}
+07/12/2018 07:08:57 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:08:57 PM - INFO - {'nb_layers': 3, 'learning_rate': 0.003, 'features': 6}
+07/12/2018 07:08:57 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:08:57 PM - INFO - {'nb_layers': 3, 'learning_rate': 0.003, 'features': 6}
+07/12/2018 07:08:57 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:08:57 PM - INFO - {'nb_layers': 3, 'learning_rate': 0.003, 'features': 6}
+07/12/2018 07:08:57 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:08:57 PM - INFO - {'nb_layers': 3, 'learning_rate': 0.003, 'features': 6}
+07/12/2018 07:08:57 PM - INFO - Network accuracy: 98.16%
+07/12/2018 07:10:00 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:10:36 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:12:10 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:12:14 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:12:19 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:12:20 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:12:41 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:12:43 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:14:57 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:15:30 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:15:48 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:15:58 PM - INFO - --------------------------------------------------------------------------------
+07/12/2018 07:23:35 PM - INFO - --------------------------------------------------------------------------------

@@ -51,7 +51,7 @@ class Optimizer():
 
             # Add the network to our population.
             pop.append(network)
-
+            print(network.network)
         return pop
 
     @staticmethod
@@ -162,7 +162,6 @@ class Optimizer():
             # Get a random mom and dad.
             male = random.randint(0, parents_length-1)
             female = random.randint(0, parents_length-1)
-
             # Assuming they aren't the same network...
             if male != female:
                 male = parents[male]
