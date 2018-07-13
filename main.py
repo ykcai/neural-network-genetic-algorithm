@@ -1,5 +1,6 @@
 """Entry point to evolving the neural network. Start here."""
 import logging
+import time	
 from optimizer import Optimizer
 from tqdm import tqdm
 
@@ -63,7 +64,7 @@ def generate(generations, population, nn_param_choices, dataset):
         # Get the average accuracy for this generation.
         average_accuracy = get_average_accuracy(networks)
         # Print out the average accuracy each generation.
-        print("Generation average: %.2f%%" % (average_accuracy * 100))
+        print("Generation average: %.4f%%" % (average_accuracy * 100))
         print('-'*80)
 
         # Evolve, except on the last iteration.
@@ -90,8 +91,8 @@ def print_networks(networks):
 
 def main():
     """Evolve a network."""
-    generations = 3  # Number of times to evole the population.
-    population = 6 # Number of networks in each generation.
+    generations = 6  # Number of times to evole the population.
+    population = 7 # Number of networks in each generation.
     dataset = 'mnist'
 
     nn_param_choices = {
@@ -106,4 +107,6 @@ def main():
     generate(generations, population, nn_param_choices, dataset)
 
 if __name__ == '__main__':
+    start_time = time.time()
     main()
+    print("--- %s seconds ---" % (time.time() - start_time))

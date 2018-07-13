@@ -51,7 +51,6 @@ class Optimizer():
 
             # Add the network to our population.
             pop.append(network)
-            print(network.network)
         return pop
 
     @staticmethod
@@ -144,6 +143,7 @@ class Optimizer():
         retain_length = int(len(graded)*self.retain)
 
         # The parents are every network we want to keep.
+		# only the top few as determined by our retain length
         parents = graded[:retain_length]
 
         # For those we aren't keeping, randomly keep some anyway.
@@ -175,7 +175,7 @@ class Optimizer():
                     # Don't grow larger than desired length.
                     if len(children) < desired_length:
                         children.append(baby)
-
+                        print(baby.network)
         parents.extend(children)
 
         return parents
